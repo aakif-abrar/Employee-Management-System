@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <ctype.h>
 FILE* filehandle;
-// structure to store 3 usernames and passwords.
+// structure to store usernames and passwords.
 struct users
 {
     char username[50];
